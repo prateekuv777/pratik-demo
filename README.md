@@ -1,4 +1,4 @@
 # pratik-demo
 This is my first Git Repository.
 <br>
-Author - Pratik Gupta
+Author - Pratik Gupta(student)
